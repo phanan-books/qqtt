@@ -2,7 +2,9 @@
     "title": "Quẩn quanh trong tổ",
     "author": "Phan An",
     "language": "vi",
-
+    "structure": {
+        "readme": "intro.md"
+    },
     "pdf": {
         "fontFamily": "Palatino Linotype",
         "paperSize": "a5",
