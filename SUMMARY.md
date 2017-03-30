@@ -1,6 +1,6 @@
 # Summary
 
-* [Giới thiệu](README.md)
+* [Giới thiệu](intro.md)
 * [Đề từ](chapters/prologue.md)
 * [Lời mở đầu](chapters/0.md)
 * [Chương 1](chapters/1.md)
