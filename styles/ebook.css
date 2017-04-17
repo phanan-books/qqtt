@@ -3,7 +3,17 @@ sup {
     margin-left: 5px;
 }
 
-blockquote {
+a[id^=reffn] {
+    font-size: .7em;
+}
+
+blockquote[id^=fn] {
+    border-left: 0 !important;
+    padding: 0;
+    color: inherit;
     font-size: .9em !important;
-    border-left-width: 0 !important;
+}
+
+blockquote[id^=fn] sup {
+    top: 0;
 }
