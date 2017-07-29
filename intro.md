@@ -1,5 +1,7 @@
 # Quẩn quanh trong tổ
 
+![Bìa](images/cover.jpg)
+
 Tác giả: [Phan An](https://phanan.net)  
 Minh họa: Phan An  
 Thiết kế bìa: Quỳnh Phương 
